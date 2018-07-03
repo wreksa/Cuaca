@@ -7,3 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+Laravel Cuaca - Basic
+Quick Installation
+git clone https://github.com/wreksa/Cuaca cuaca
+
+cd cuaca
+
+composer install
+
+php artisan serve
+
+[Complete Tutorial](https://laravel.com/docs/5.6)
+
