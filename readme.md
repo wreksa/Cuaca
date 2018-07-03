@@ -9,6 +9,7 @@
 
 
 Laravel Cuaca - Basic
+<img src="https://image.ibb.co/m9uqhJ/Capture.jpg">
 Quick Installation
 <pre>
 <code>
