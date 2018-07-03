@@ -10,13 +10,13 @@
 
 Laravel Cuaca - Basic
 Quick Installation
+<pre>
+<code>
 git clone https://github.com/wreksa/Cuaca cuaca
-
 cd cuaca
-
 composer install
-
 php artisan serve
-
+</code>
+</pre>
 [Complete Tutorial](https://laravel.com/docs/5.6)
 
