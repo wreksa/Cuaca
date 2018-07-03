@@ -19,5 +19,7 @@ composer install
 php artisan serve
 </code>
 </pre>
+open in your browser [http://localhost:8000/weather](http://localhost:8000/weather)
+
 [Complete Tutorial](https://laravel.com/docs/5.6)
 
